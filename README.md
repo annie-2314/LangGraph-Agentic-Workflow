@@ -169,7 +169,7 @@ The workflow follows a cyclical process:
 ## Live Demo
 
 🟢 Hosted Live on Streamlit:  
-[https://agentic-workflow-langgraph.streamlit.app](https://agentic-workflow-langgraph.streamlit.app)
+[https://langgraph-agentic-workflow-glmsmxvfbfmp3rvabdxkwg.streamlit.app/](https://langgraph-agentic-workflow-glmsmxvfbfmp3rvabdxkwg.streamlit.app/)
 
 ---
 

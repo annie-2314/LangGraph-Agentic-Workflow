@@ -5,17 +5,17 @@ import base64
 import os
 
 # Function to encode image as base64
-# def get_base64_image(image_path):
-#     if not os.path.exists(image_path):
-#         st.warning(f"Image file {image_path} not found. Using default background.")
-#         return None
-#     with open(image_path, "rb") as img_file:
-#         return base64.b64encode(img_file.read()).decode()
+def get_base64_image(image_path):
+    if not os.path.exists(image_path):
+        st.warning(f"Image file {image_path} not found. Using default background.")
+        return None
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode()
 
 # Set page title
 st.title("🧠 Agentic Workflow with LangGraph")
 
-# Add background image
+# # Add background image
 # image_path = "assets/bg.jpg"  # Local image path
 # base64_image = get_base64_image(image_path)
 # if base64_image:

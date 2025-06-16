@@ -22,7 +22,7 @@ This repository implements an agentic workflow using LangGraph, featuring a pipe
 
 ## Project Overview
 
-This project fulfills an agentic workflow task, leveraging LangGraph to manage task planning, execution, and refinement. A *PlanAgent* decomposes queries into 7–8 descriptive subtasks, a *ToolAgent* executes tasks, and a *Streamlit UI* allows users to edit, delete, or add tasks. The workflow ensures robust error handling and accurate results, with a local background image (assets/bg.jpg) for visual appeal.
+This project fulfills an agentic workflow task, leveraging LangGraph to manage task planning, execution, and refinement. A *PlanAgent* decomposes queries into 7–8 descriptive subtasks, a *ToolAgent* executes tasks, and a *Streamlit UI* allows users to edit, delete, or add tasks. The workflow ensures robust error handling and accurate results for visual appeal.
 
 ---
 
@@ -169,14 +169,14 @@ The workflow follows a cyclical process:
 ## Live Demo
 
 🟢 Hosted Live on Streamlit:  
-[https://langgraph-agentic-workflow-glmsmxvfbfmp3rvabdxkwg.streamlit.app/](https://langgraph-agentic-workflow-glmsmxvfbfmp3rvabdxkwg.streamlit.app/)
+[Streamlit live link](https://langgraph-agentic-workflow-glmsmxvfbfmp3rvabdxkwg.streamlit.app/)
 
 ---
 
 ## Video Explanation
 
 🎥 A 5–10 minute walkthrough is available here:  
-[YouTube Link](https://www.google.com/search?q=Your-Video-Link-Here)
+[Link](https://www.loom.com/share/85c6ea9370d24ac2ad9416ebef5ef4f7?sid=f481fd08-ef1b-4966-8298-f8d08f9e3af8)
 
 ---
 
